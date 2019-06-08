@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #262626
 }
 
 .App-logo {
@@ -30,4 +32,74 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar {
+  background: #211c38;
+  font-size: 24px;
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  box-shadow: 5px 5px 5px #888888;
+  color: #ffffff;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.logo {
+}
+
+.submit_button {
+  cursor: pointer;
+  border: 1px solid #262626;
+  width: max-content;
+  padding: 10px;
+  margin: 20px;
+}
+
+.header_style {
+  font-size: 20px;
+  margin: 16px;
+}
+
+.Body_contents {
+  padding: 20px;
+  border: 1px solid #262626;
+  border-radius: 8px;
+  margin: 20px;
+  background: #e6e4ec;
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.rendered_data{
+  padding: 20px;
+  border: 1px solid #262626;
+  border-radius: 8px;
+  margin: 20px;
+  background: #e6e4ec;
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.body__container {
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.Image_styling{
+  width: 98%;
+  height: 98%;
+  opacity: 0.3;
+}
+
+.details_header{
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 600;
+
 }
