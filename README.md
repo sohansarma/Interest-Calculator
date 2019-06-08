@@ -1,3 +1,21 @@
+A single page Web App to show the interest rate and monthly payment based on the amount and duration.
+
+Steps to run:
+
+-->git clone
+-->npm install
+-->npm run
+
+Steps to check Interest rate and monthly payment :
+
+-->Slide to the amount needed(Text box is readOnly to show the amount selected)
+-->Select duration.
+
+
+Voila!! You calculated details must be there.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -5,6 +5,8 @@ import TextBoxAmount from "./TextBoxAmount";
 import TextBoxMonth from "./TextBoxMonth";
 import Image from './ImageRender'
 
+
+//Fetching API
 const fetchValuesFromAPI = (noOfMonths, amount) =>
   fetch(
     `https://ftl-frontend-test.herokuapp.com/interest?amount=${amount}&numMonths=${noOfMonths}`
@@ -34,6 +36,7 @@ class Navbar extends Component {
   }
 
   componentDidMount() {
+  	//To Mount data Initially
     this.handleFetch();
   }
 
@@ -47,6 +50,8 @@ class Navbar extends Component {
     );
   };
 
+
+//Render data 
   handleFetch = () => {
     const { amount, noOfMonths } = this.state;
     console.log("Hewwww");
