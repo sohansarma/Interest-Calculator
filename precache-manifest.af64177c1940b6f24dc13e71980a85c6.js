@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6c4cfa1c24ac63a682753d112db82c2",
+    "revision": "fc9baa5cfb13bb4f55ee96c1f033d0ea",
     "url": "/Interest-Calculator/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Interest-Calculator/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "4310d214fc44f3aec8b8",
-    "url": "/Interest-Calculator/static/css/main.face09d7.chunk.css"
+    "revision": "11946b3f9fa268d716f6",
+    "url": "/Interest-Calculator/static/css/main.4df07cb5.chunk.css"
   },
   {
     "revision": "e8fc3ebee0d1eef867f6",
     "url": "/Interest-Calculator/static/js/2.28af92e0.chunk.js"
   },
   {
-    "revision": "4310d214fc44f3aec8b8",
-    "url": "/Interest-Calculator/static/js/main.23763b00.chunk.js"
+    "revision": "11946b3f9fa268d716f6",
+    "url": "/Interest-Calculator/static/js/main.d29e228d.chunk.js"
   },
   {
     "revision": "42e36dca05aebdffc369",
