@@ -78,7 +78,7 @@ class Navbar extends Component {
     console.log("intere")
     console.log(data);
     return (
-      <div className="d-flex">
+      <div className="d-flex fixing_body">
       <div className="d-flex flex-column">
         <div className="d-flex">
           <div className="Body_contents">

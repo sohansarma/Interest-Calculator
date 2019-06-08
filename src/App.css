@@ -103,3 +103,7 @@
   font-weight: 600;
 
 }
+
+.fixing_body{
+  overflow-x: auto;
+}
